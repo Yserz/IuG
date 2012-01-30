@@ -1,0 +1,702 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\maintain_unincluded_children false
+\language ngerman
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+titlepage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename ../../Downloads/Wiss_Schreiben_mit_TEX/lyx_thesis_template_FHB/pics/FH-Logo.pdf
+	width 5cm
+
+\end_inset
+
+
+\begin_inset VSpace 0.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+\series bold
+\size larger
+Fachbereich Informatik und Medien
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family default
+\size default
+
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+\series bold
+\size huge
+ABSCHLUSSARBEIT
+\series default
+\size default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size larger
+Chancen und Gefahren im Internet 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+\size larger
+am Beispiel Google und Facebook
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size huge
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle">
+<column alignment="right" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Vorgelegt von:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Michael Koppen, Tino Reuschel
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+am:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+30.01.2012
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+leere Seite nach dem Titelblatt
+\end_layout
+
+\begin_layout Plain Layout
+dann Aufgabenstellung
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+pagestyle{scrheadings}    %Kopfzeile ein
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+\series bold
+\size large
+Selbstständigkeitserklärung
+\end_layout
+
+\begin_layout Standard
+\noindent
+Hiermit erklären wir, dass wir die vorliegende Arbeit zum Thema
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+Chancen und Gefahren im Internet am Beispiel Google und Facebook
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+vollkommen selbstständig verfasst und keine anderen als die angegebenen
+ Quellen und Hilfsmittel benutzt sowie Zitate kenntlich gemacht haben.
+ Die Arbeit wurde in dieser oder ähnlicher Form noch keiner anderen Prüfungsbehö
+rde vorgelegt.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Brandenburg/Havel, den 30.01.2012
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.7cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Unterschriften
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+selectlanguage{ngerman}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+\noindent
+Einleitung(MK+TR)
+\end_layout
+
+\begin_layout Standard
+\noindent
+In unserer Gesellschaft spielen Daten und Informationen eine sehr große
+ Rolle.
+ Menschen dürsten nach Wissen.
+ Es geht uns darum, so viel wie möglich zu wissen und unsere Wissenslücken
+ zu schließen.
+ Wir wollen wissen wer uns gegenüber sitzt oder was uns bei unseren Problemen
+ helfen kann.
+ Google und Facebook spielen derzeit und diesbezüglich eine sehr große Rolle.
+\end_layout
+
+\begin_layout Section
+\noindent
+Differenzierung Daten & Informationen
+\end_layout
+
+\begin_layout Section
+\noindent
+Informationelles Selbstbestimmungsrecht
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+\noindent
+Google(MK)
+\end_layout
+
+\begin_layout Section
+\noindent
+Allgemein
+\end_layout
+
+\begin_layout Standard
+\noindent
+Das Unternehmen Google Incorporated hat seinen Hauptsitzt in Mountain View
+ (Kalifornien, USA) und wurde am 4.
+ September 1998 von Larry Page und Sergei Brin gegründet.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Im Jahre 2010 beschäftigte Google 24.400 Mitarbeiter und hatte einen Marktanteil
+ von 80%.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SEC2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Google startete als Suchmaschine, jedoch bietet Google mittlerweilen eine
+ Vielzahl an Diensten, die uns das Leben erleichtern sollen.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Als Beispiel dienen folgende Dienste, die im weiteren Verlauf näher erläutert
+ werden: 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Google Chrome 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Android
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Google Earth & Maps 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Google Mail 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Google Docs 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Google Plus 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Und viele Weitere
+\end_layout
+
+\begin_layout Section
+\noindent
+Google-Dienste im Detail
+\end_layout
+
+\begin_layout Standard
+\noindent
+Google bietet eine Vielzahl an Diensten.
+ Um Ihnen eine Übersicht über deren Funktion zu geben, werden diese hier
+ kurz erläutert.
+\end_layout
+
+\begin_layout Subsection
+\noindent
+Android
+\end_layout
+
+\begin_layout Standard
+Android ist ein von Google entwickeltes Betriebssystem für Smartphones,
+ Tablets und Netbooks
+\end_layout
+
+\begin_layout Standard
+\noindent
+Google kennt alle Ihre Kontakte und den Inhalt Ihrer SMS, Mails und Telefonate.
+\end_layout
+
+\begin_layout Subsection
+\noindent
+Chrome
+\end_layout
+
+\begin_layout Standard
+Google Chrome ist ein von Google entwickelter Webbrowser und ist seit dem
+ 2.
+ September 2008 verfügbar.
+ Google bewegt sich durch Chrome noch weiter in Richtung Benutzer, da Google
+ die Bewegungen seiner Nutzer im gesamten Internet beobachten kann und somit
+ Rückschlüsse auf Interessen und Verhalten ziehen kann.
+\end_layout
+
+\begin_layout Subsection
+\noindent
+Earth & Maps
+\end_layout
+
+\begin_layout Standard
+\noindent
+Google weiß wohin Ihr nächster Urlaub geht und welche Route sie vermutlich
+ einschlagen werden.
+\end_layout
+
+\begin_layout Subsection
+\noindent
+Mail
+\end_layout
+
+\begin_layout Standard
+\noindent
+Google kennt Ihre Kontakte und den Inhalt Ihrer Mails.
+\end_layout
+
+\begin_layout Subsection
+\noindent
+Docs
+\end_layout
+
+\begin_layout Standard
+\noindent
+Google weiß über welche Themen Sie Vorträge halten oder Dokumente schreiben.
+\end_layout
+
+\begin_layout Section
+\noindent
+Wie Google Geld verdient
+\end_layout
+
+\begin_layout Standard
+\noindent
+Wenn man Googles Dienste miteinander vergleicht, fällt einem auf, dass Google
+ so ziemlich jeden Bereich des Lebens abdeckt.
+ Das ist kein Zufall, Google verdient Geld mit seinen Plattformen und unseren
+ Daten.
+ Google präsentiert Werbung auf seinen Plattformen.
+ Das ist keine normale Werbung, sondern speziell auf uns zugeschnittene
+ Werbung.
+ Google analysiert unsere Daten, erstellt ein Profil und findet die Werbung,
+ die uns am meisten interessiert.
+ Die werbenden Firmen schätzen diese Fähigkeit und kaufen den Werbeplatz
+ bei Google ein und können gegen eine größere Summe, die Häufigkeit der
+ Einblendung beeinflussen.
+ Auch die Prioritäten der Suchergebnisse können so beeinflusst werden.
+ Google erstellt also ein Profil von Ihnen, Ihren Gewohnheiten und Ihren
+ Interessen.
+ Man könnte nun bei entsprechender Nutzung der Google-Dienste sagen, Google
+ weiß alles über Sie.
+ Und genau dort besteht ein potenzielles Problem.
+ Was passiert, wenn Google diese Daten missbraucht.
+ Was passiert wenn Google diese Daten gegen Sie verwendet? Was wäre, wenn
+ jeder Mensch auf dieser Welt Ihre intimsten Geheimnisse kennt? Welche Macht
+ hat Google über jeden einzelnen von uns?
+\end_layout
+
+\begin_layout Section
+\noindent
+Kritische Betrachtung
+\end_layout
+
+\begin_layout Standard
+\noindent
+//TODO
+\end_layout
+
+\begin_layout Section
+\noindent
+Google Pros
+\end_layout
+
+\begin_layout Standard
+\noindent
+Die Google-Dienste beinhalten eine große Gefahr für unsere Privatsphäre,
+ sie haben aber definitiv auch einen großen Nutzen, wenn man sie mit Bedacht
+ einsetzt.
+ Google-Dienste ermöglichen es uns unser Wissen zu erweitern und Daten schnell
+ und effizient zu finden.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+\noindent
+Facebook(TR)
+\end_layout
+
+\begin_layout Section
+\noindent
+Allgemein
+\end_layout
+
+\begin_layout Chapter
+\noindent
+Maßnahmen(MK+TR)
+\end_layout
+
+\begin_layout Standard
+\noindent
+Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
+ als Namen verwendet und die Google-Dienste möglichst nicht miteinander
+ verknüpft.
+ Dadurch kann Google die Daten zwar Sammeln, sie aber nur bedingt einer
+ einzelnen Person zuordnen.
+\end_layout
+
+\begin_layout Chapter
+\noindent
+Resumé(TR+MK)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "bibtex/lit_verz"
+options "bibtotoc,alphadin"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
