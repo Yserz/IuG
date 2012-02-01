@@ -2,16 +2,16 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass book
+\textclass scrbook
 \use_default_options true
 \maintain_unincluded_children false
 \language ngerman
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman lmodern
+\font_sans lmss
+\font_typewriter lmtt
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
@@ -24,11 +24,11 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
-\spacing single
+\paperfontsize 11
+\spacing other 1.5
 \use_hyperref false
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -37,16 +37,23 @@
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
-\suppress_date true
-\use_refstyle 1
+\suppress_date false
+\use_refstyle 0
 \index Index
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 2.75cm
+\bottommargin 3cm
+\headheight 1cm
+\headsep 0.666cm
+\footskip 1cm
 \secnumdepth 3
 \tocdepth 3
-\paragraph_separation indent
-\paragraph_indentation default
+\paragraph_separation skip
+\defskip medskip
 \quotes_language english
 \papercolumns 1
 \papersides 1
@@ -136,7 +143,7 @@ Fachbereich Informatik und Medien
 \family sans
 \series bold
 \size huge
-SEMESTERARBEIT
+SEMESTERSARBEIT
 \series default
 \size default
 
@@ -233,6 +240,8 @@ am:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Newpage newpage
 \end_inset
 
@@ -240,6 +249,8 @@ am:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Note Comment
 status collapsed
 
@@ -257,6 +268,8 @@ dann Aufgabenstellung
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset ERT
 status collapsed
 
@@ -273,8 +286,8 @@ pagestyle{scrheadings}    %Kopfzeile ein
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
-\align center
 
 \family sans
 \series bold
@@ -283,26 +296,38 @@ Selbstständigkeitserklärung
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Hiermit erklären wir, dass wir die vorliegende Arbeit zum Thema
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset VSpace smallskip
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
+\paragraph_spacing onehalf
 \noindent
-\align center
 
 \family sans
+\begin_inset Quotes eld
+\end_inset
+
 Chancen und Gefahren im Internet am Beispiel Google und Facebook
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset VSpace smallskip
 \end_inset
 
@@ -310,6 +335,7 @@ Chancen und Gefahren im Internet am Beispiel Google und Facebook
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 vollkommen selbstständig verfasst und keine anderen als die angegebenen
  Quellen und Hilfsmittel benutzt sowie Zitate kenntlich gemacht haben.
@@ -318,6 +344,8 @@ rde vorgelegt.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset VSpace defskip
 \end_inset
 
@@ -325,11 +353,14 @@ rde vorgelegt.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Brandenburg/Havel, den 30.01.2012
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset VSpace 1.7cm
 \end_inset
 
@@ -337,11 +368,14 @@ Brandenburg/Havel, den 30.01.2012
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Unterschriften
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset ERT
 status collapsed
 
@@ -358,6 +392,8 @@ selectlanguage{ngerman}
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Newpage newpage
 \end_inset
 
@@ -365,6 +401,8 @@ selectlanguage{ngerman}
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
@@ -374,6 +412,8 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Newpage newpage
 \end_inset
 
@@ -381,11 +421,13 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Chapter
+\paragraph_spacing onehalf
 \noindent
 Einleitung(MK)
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 In unserer Gesellschaft spielen Daten und Informationen eine sehr große
  Rolle.
@@ -395,14 +437,20 @@ In unserer Gesellschaft spielen Daten und Informationen eine sehr große
  Wir wollen wissen wer uns gegenüber sitzt oder was uns bei unseren Problemen
  helfen kann.
  Google und Facebook spielen derzeit und diesbezüglich eine sehr große Rolle.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Differenzierung Daten & Informationen
 \end_layout
 
 \begin_layout Quotation
+\paragraph_spacing onehalf
 \noindent
 \begin_inset Quotes eld
 \end_inset
@@ -426,47 +474,45 @@ key "Weizen2001"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Wir befinden uns in einem Informationszeitalter.
  Die Wirtschaft orientiert sich an der Börse und die Börse richtet sich
  nach Daten aus aller Welt.
  Dabei werden die Daten von den Spekulanten interpretiert und dementsprechend
  gehandelt.
-\end_layout
-
-\begin_layout Standard
-\noindent
-Daten, man spricht auch von Signalen, sind also eine Ansammlung von definierten
- Werten und Informationen gewinnt man bei der Interpretation von Daten.
+ Daten, man spricht auch von Signalen, sind also eine Ansammlung von definierten
+ Werten und Informationen, wie Herr Weizenbaum gut beschreibt, gewinnt man
+ bei der Interpretation von Daten.
  
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Informationelles Selbstbestimmungsrecht
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Informationelles Selbstbestimmungsrecht ist das Recht jedes Einzelnen, grundsätz
 lich selbst über die Preisgabe und Verwendung seiner personenbezogenen Daten
  zu bestimmen.
  Hierbei unterscheidet man zwischen anonymisierten und personenbezogenen
  Daten.
-\end_layout
-
-\begin_layout Standard
-\noindent
-Bei der Erhebung von Daten eines Nutzers müssen diese Daten Zweckgebunden
+ Bei der Erhebung von Daten eines Nutzers müssen diese Daten zweckgebunden
  sein.
-\end_layout
-
-\begin_layout Standard
-\noindent
-Dabei ist zu beachten, dass die Zweckbindung bei anonymisierten Daten gelockert
+ Dabei ist zu beachten, dass die Zweckbindung bei anonymisierten Daten gelockert
  ist.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 \begin_inset Newpage newpage
 \end_inset
@@ -475,16 +521,20 @@ Dabei ist zu beachten, dass die Zweckbindung bei anonymisierten Daten gelockert
 \end_layout
 
 \begin_layout Chapter
+\paragraph_spacing onehalf
 \noindent
 Google(MK)
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Allgemein
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Float figure
 placement H
 wide false
@@ -556,19 +606,17 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Das Unternehmen Google Incorporated (Logo siehe Abb 2.1) hat seinen Hauptsitzt
  in Mountain View (Kalifornien, USA) und wurde am 4.
  September 1998 von Larry Page und Sergei Brin gegründet.
-\end_layout
-
-\begin_layout Standard
-\noindent
-Google startete als Suchmaschine, jedoch bietet Google mittlerweilen eine
+ Google startete als Suchmaschine, jedoch bietet Google mittlerweile eine
  Vielzahl an Diensten, die uns das Leben erleichtern sollen.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Somit hatte Google im Jahre 2010 24.400 Mitarbeiter und einen Marktanteil
  von 80%.
@@ -583,11 +631,13 @@ key "SEC2010"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Googles Ziel ist eindeutig:
 \end_layout
 
 \begin_layout Quotation
+\paragraph_spacing onehalf
 \noindent
 „Das Ziel von Google besteht darin, die Informationen der Welt zu organisieren
  und allgemein nutzbar und zugänglich zu machen.“
@@ -601,6 +651,13 @@ key "Gz2012"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 \begin_inset Newpage newpage
 \end_inset
@@ -609,23 +666,32 @@ key "Gz2012"
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Google-Dienste im Detail
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Google bietet eine Vielzahl an Diensten.
  Um Ihnen eine Übersicht über deren Funktion zu geben, werden diese hier
  kurz erläutert.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
+\paragraph_spacing onehalf
 \noindent
 Android
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Float figure
 placement H
 wide false
@@ -697,23 +763,27 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Android (Logo siehe Abb 2.2) ist ein von Google entwickeltes Betriebssystem
  für Smartphones, Tablets und Netbooks.
-\end_layout
+ Google kann damit Ihre SMS, Kontakte, Mails und Telefonate aufzeichnen
+ und Rückschlüsse auf Ihre Interessen ziehen.
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-\noindent
-Google kann damit Ihre SMS, Kontakte, Mails und Telefonate aufzeichnen und
- Rückschlüsse auf Ihre Interessen ziehen.
+
 \end_layout
 
 \begin_layout Subsection
+\paragraph_spacing onehalf
 \noindent
 Chrome
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Float figure
 placement H
 wide false
@@ -785,6 +855,7 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Google Chrome (Logo siehe Abb 2.3) ist ein von Google entwickelter Webbrowser
  und ist seit dem 2.
@@ -792,14 +863,21 @@ Google Chrome (Logo siehe Abb 2.3) ist ein von Google entwickelter Webbrowser
  Google bewegt sich durch Chrome noch weiter in Richtung Benutzer, da Google
  die Bewegungen seiner Nutzer im gesamten Internet beobachten kann und somit
  Rückschlüsse auf Interessen und Verhalten ziehen kann.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
+\paragraph_spacing onehalf
 \noindent
 Mail
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Float figure
 placement H
 wide false
@@ -868,26 +946,113 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
-\noindent
-Google kennt Ihre Kontakte und den Inhalt Ihrer Mails.
+Google Mail ist ein Freemail-Dienst.
+ GMail zeichnet einen enorm großen Posteingang aus.
+ Durch GMail kennt Google Ihre Kontakte und den Inhalt Ihrer Mails und kann
+ Kontextbezogene Werbung einblenden.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
+\paragraph_spacing onehalf
 \noindent
 Docs
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
-Google weiß über welche Themen Sie Vorträge halten oder Dokumente schreiben.
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename pics/docs_logo_rgb_web.png
+	lyxscale 10
+	scale 5
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Google Docs Logo
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gimag2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
+ Präsentationen, Formulare und Zeichnungen.
+ Alle Dokumente können leicht an andere Google Docs Nurtzer verteilt werden.
+ Durch Google Docs kann Google welche Themen für Sie interessant sind und
+ ggf.
+ kritische Daten wie Kontodaten und Verdienst einsehen.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Wie Google Geld verdient
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Wenn man Googles Dienste miteinander vergleicht, fällt einem auf, dass Google
  so ziemlich jeden Bereich des Lebens abdeckt.
@@ -902,42 +1067,106 @@ Wenn man Googles Dienste miteinander vergleicht, fällt einem auf, dass Google
  bei Google ein und können gegen eine größere Summe, die Häufigkeit der
  Einblendung beeinflussen.
  Auch die Prioritäten der Suchergebnisse können so beeinflusst werden.
- Google erstellt also ein Profil von Ihnen, Ihren Gewohnheiten und Ihren
- Interessen.
- Man könnte nun bei entsprechender Nutzung der Google-Dienste sagen, Google
- weiß alles über Sie.
- Und genau dort besteht ein potenzielles Problem.
- Was passiert, wenn Google diese Daten missbraucht.
- Was passiert wenn Google diese Daten gegen Sie verwendet? Was wäre, wenn
- jeder Mensch auf dieser Welt Ihre intimsten Geheimnisse kennt? Welche Macht
- hat Google über jeden einzelnen von uns?
+ 
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Kritische Betrachtung
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
+Google erstellt also ein Profil von Ihnen, Ihren Gewohnheiten und Ihren
+ Interessen.
+ Man könnte nun bei entsprechender Nutzung der Google-Dienste sagen, Google
+ weiß alles über Sie.
+ Und genau dort besteht ein potenzielles Problem.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Joseph Weizenbaum schrieb:
+\end_layout
+
+\begin_layout Quotation
+\paragraph_spacing onehalf
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+...wir haben Angst, daß wir die Maschine nicht mehr abschalten können.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Weizen2001_66"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Was passiert also, wenn Google außer Kontrolle gerät, wenn wir Google nicht
+ mehr abschalten können?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Was passiert, wenn Google diese Daten missbraucht.
+ Was passiert, wenn Google nicht mehr seinem Leitsatz 
+\begin_inset Quotes eld
+\end_inset
+
+Don´t do Evil!
+\begin_inset Quotes erd
+\end_inset
+
+ folgt oder anders interpretiert? Was passiert, wenn Google diese Daten
+ gegen Sie verwendet? Was wäre, wenn jeder Mensch auf dieser Welt Ihre intimsten
+ Geheimnisse kennt? Welche Macht hat Google über jeden einzelnen von uns?
+\begin_inset Newline newline
+\end_inset
+
 //TODO
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Google Pros
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Die Google-Dienste beinhalten eine große Gefahr für unsere Privatsphäre,
  sie haben aber definitiv auch einen großen Nutzen, wenn man sie mit Bedacht
  einsetzt.
  Google-Dienste ermöglichen es uns unser Wissen zu erweitern und Daten schnell
  und effizient zu finden.
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 \begin_inset Newpage newpage
 \end_inset
@@ -946,21 +1175,25 @@ Die Google-Dienste beinhalten eine große Gefahr für unsere Privatsphäre,
 \end_layout
 
 \begin_layout Chapter
+\paragraph_spacing onehalf
 \noindent
 Facebook(TR)
 \end_layout
 
 \begin_layout Section
+\paragraph_spacing onehalf
 \noindent
 Allgemein
 \end_layout
 
 \begin_layout Chapter
+\paragraph_spacing onehalf
 \noindent
 Maßnahmen(MK+TR)
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
  als Namen verwendet und die Google-Dienste möglichst nicht miteinander
@@ -969,12 +1202,24 @@ Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
  einzelnen Person zuordnen.
 \end_layout
 
-\begin_layout Chapter
+\begin_layout Standard
 \noindent
-Resumé(TR+MK)
+Auflistung von Maßnahmen
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+\paragraph_spacing onehalf
+\noindent
+Fazit(TR+MK)
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Newpage newpage
 \end_inset
 
@@ -982,6 +1227,8 @@ Resumé(TR+MK)
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset Newpage clearpage
 \end_inset
 
@@ -989,6 +1236,8 @@ Resumé(TR+MK)
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "bibtex/lit_verz"
@@ -1000,6 +1249,7 @@ options "bibtotoc,alphadin"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 \begin_inset FloatList figure
 
@@ -1009,6 +1259,8 @@ options "bibtotoc,alphadin"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 \begin_inset FloatList table
 
 \end_inset
