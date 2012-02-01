@@ -382,7 +382,7 @@ LatexCommand tableofcontents
 
 \begin_layout Chapter
 \noindent
-Einleitung(MK+TR)
+Einleitung(MK)
 \end_layout
 
 \begin_layout Standard
@@ -402,9 +402,68 @@ In unserer Gesellschaft spielen Daten und Informationen eine sehr große
 Differenzierung Daten & Informationen
 \end_layout
 
+\begin_layout Quotation
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Information wird hergestellt.
+ Wir stellen Informationen her, indem wir z.B.
+ Signale hören oder sehen, sie also empfangen und im Anschluß daran interpretier
+en.
+ Vielleicht interpretieren wir sie richtig oder aber auch nicht.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Weizen2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Wir befinden uns in einem Informationszeitalter.
+ Die Wirtschaft orientiert sich an der Börse und die Börse richtet sich
+ nach Daten aus aller Welt.
+ Dabei werden die Daten von den Spekulanten interpretiert und dementsprechend
+ gehandelt.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Daten, man spricht auch von Signalen, sind also eine Ansammlung von definierten
+ Werten und Informationen gewinnt man bei der Interpretation von Daten.
+ 
+\end_layout
+
 \begin_layout Section
 \noindent
 Informationelles Selbstbestimmungsrecht
+\end_layout
+
+\begin_layout Standard
+\noindent
+Informationelles Selbstbestimmungsrecht ist das Recht jedes Einzelnen, grundsätz
+lich selbst über die Preisgabe und Verwendung seiner personenbezogenen Daten
+ zu bestimmen.
+ Hierbei unterscheidet man zwischen anonymisierten und personenbezogenen
+ Daten.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Bei der Erhebung von Daten eines Nutzers müssen diese Daten Zweckgebunden
+ sein.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Dabei ist zu beachten, dass die Zweckbindung bei anonymisierten Daten gelockert
+ ist.
 \end_layout
 
 \begin_layout Standard
@@ -426,13 +485,80 @@ Allgemein
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename pics/800px-Google.svg.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Google Logo
+\begin_inset CommandInset citation
+LatexCommand cite
+key "G2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Standard
 \noindent
-Das Unternehmen Google Incorporated hat seinen Hauptsitzt in Mountain View
- (Kalifornien, USA) und wurde am 4.
+Das Unternehmen Google Incorporated (Logo siehe Abb 2.1) hat seinen Hauptsitzt
+ in Mountain View (Kalifornien, USA) und wurde am 4.
  September 1998 von Larry Page und Sergei Brin gegründet.
 \end_layout
 
@@ -450,6 +576,24 @@ Somit hatte Google im Jahre 2010 24.400 Mitarbeiter und einen Marktanteil
 \begin_inset CommandInset citation
 LatexCommand cite
 key "SEC2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Googles Ziel ist eindeutig:
+\end_layout
+
+\begin_layout Quotation
+\noindent
+„Das Ziel von Google besteht darin, die Informationen der Welt zu organisieren
+ und allgemein nutzbar und zugänglich zu machen.“
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gz2012"
 
 \end_inset
 
@@ -474,6 +618,77 @@ Android
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename pics/512px-Android_robot.svg.png
+	scale 20
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Android Logo
+\begin_inset CommandInset citation
+LatexCommand cite
+key "And2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 Android ist ein von Google entwickeltes Betriebssystem für Smartphones,
  Tablets und Netbooks.
@@ -482,12 +697,49 @@ Android ist ein von Google entwickeltes Betriebssystem für Smartphones,
 \begin_layout Standard
 \noindent
 Google kann damit Ihre SMS, Kontakte, Mails und Telefonate aufzeichnen und
- Rückschlüsse Ihre Interessen ziehen.
+ Rückschlüsse auf Ihre Interessen ziehen.
 \end_layout
 
 \begin_layout Subsection
 \noindent
 Chrome
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename pics/256px-Chrome_2011_Logo.svg.png
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Chrome Logo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -649,6 +901,7 @@ options "bibtotoc,alphadin"
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset FloatList figure
 
 \end_inset
