@@ -946,6 +946,8 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Google Mail ist ein Freemail-Dienst.
  GMail zeichnet einen enorm großen Posteingang aus.
  Durch GMail kennt Google Ihre Kontakte und den Inhalt Ihrer Mails und kann
@@ -1033,11 +1035,13 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
  Präsentationen, Formulare und Zeichnungen.
  Alle Dokumente können leicht an andere Google Docs Nurtzer verteilt werden.
- Durch Google Docs kann Google welche Themen für Sie interessant sind und
- ggf.
+ Durch Google Docs kann Google analysieren welche Themen für Sie interessant
+ sind und ggf.
  kritische Daten wie Kontodaten und Verdienst einsehen.
 \begin_inset Newline newline
 \end_inset
@@ -1139,10 +1143,24 @@ Don´t do Evil!
  folgt oder anders interpretiert? Was passiert, wenn Google diese Daten
  gegen Sie verwendet? Was wäre, wenn jeder Mensch auf dieser Welt Ihre intimsten
  Geheimnisse kennt? Welche Macht hat Google über jeden einzelnen von uns?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
+ einzige Gefahr die von Google ausgeht.
+ Angenommen Google wäre unsere einzige Informationsbeschaffungsquelle, dann
+ wäre Google in der Lage Meinungen zu beeinflussen.
+ Google kann in diesem Szenario Ergebnisse liefern, die nur im Interesse
+ von Google stehen.
+ Google könnte zum Beispiel nur wohlwollende Beiträge gegenüber einer Partei
+ anzeigen oder Fehlinformationen über Handlungen von Ländern hervorheben.
+ Dies würde weitreichende Konsequenzen in der Politik haben.
 \begin_inset Newline newline
 \end_inset
 
-//TODO
+
 \end_layout
 
 \begin_layout Section
@@ -1159,6 +1177,15 @@ Die Google-Dienste beinhalten eine große Gefahr für unsere Privatsphäre,
  einsetzt.
  Google-Dienste ermöglichen es uns unser Wissen zu erweitern und Daten schnell
  und effizient zu finden.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit mit
+ anderen Menschen über räumliche Grenzen hinweg.
+ Das vereinfacht uns das Arbeiten und unterstützt die Globalisierung der
+ Welt.
 \begin_inset Newline newline
 \end_inset
 
@@ -1203,6 +1230,7 @@ Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 Auflistung von Maßnahmen
 \begin_inset Newline newline

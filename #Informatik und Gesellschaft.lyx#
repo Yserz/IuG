@@ -946,12 +946,10 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-Google kennt Ihre Kontakte und den Inhalt Ihrer Mails.
+Google Mail ist ein Freemail-Dienst.
+ GMail zeichnet einen enorm großen Posteingang aus.
+ Durch GMail kennt Google Ihre Kontakte und den Inhalt Ihrer Mails und kann
+ Kontextbezogene Werbung einblenden.
 \begin_inset Newline newline
 \end_inset
 
@@ -1035,9 +1033,12 @@ key "Gimag2012"
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-Google weiß über welche Themen Sie Vorträge halten oder Dokumente schreiben.
+Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
+ Präsentationen, Formulare und Zeichnungen.
+ Alle Dokumente können leicht an andere Google Docs Nurtzer verteilt werden.
+ Durch Google Docs kann Google welche Themen für Sie interessant sind und
+ ggf.
+ kritische Daten wie Kontodaten und Verdienst einsehen.
 \begin_inset Newline newline
 \end_inset
 
@@ -1135,13 +1136,26 @@ Don´t do Evil!
 \begin_inset Quotes erd
 \end_inset
 
- folgt oder anders interpretiert? Was passiert wenn Google diese Daten gegen
- Sie verwendet? Was wäre, wenn jeder Mensch auf dieser Welt Ihre intimsten
+ folgt oder anders interpretiert? Was passiert, wenn Google diese Daten
+ gegen Sie verwendet? Was wäre, wenn jeder Mensch auf dieser Welt Ihre intimsten
  Geheimnisse kennt? Welche Macht hat Google über jeden einzelnen von uns?
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
+\begin_layout Standard
+Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
+ einzige Gefahr die von Google ausgeht.
+ Angenommen Google wäre unsere einzige Informationsbeschaffungsquelle, dann
+ wäre Google in der Lage Meinungen zu beeinflussen.
+ Google kann in diesem Szenario nur Ergebnisse liefern, die im Interesse
+ von Google stehen.
+ Google könnte zum Beispiel nur wohlwollende 
+\end_layout
 
+\begin_layout Standard
+\noindent
+//TODO Google kann Meinungen beeinflussen (Annahme -> google ist die einzige
+ informationsbeschaffungsquelle) nur ergebnisse liefern die google liefern
+ will
 \end_layout
 
 \begin_layout Section
@@ -1158,10 +1172,12 @@ Die Google-Dienste beinhalten eine große Gefahr für unsere Privatsphäre,
  einsetzt.
  Google-Dienste ermöglichen es uns unser Wissen zu erweitern und Daten schnell
  und effizient zu finden.
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
-
+\begin_layout Standard
+\noindent
+//TODO Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit
+ mit anderen Menschen
 \end_layout
 
 \begin_layout Standard
@@ -1199,6 +1215,11 @@ Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
  verknüpft.
  Dadurch kann Google die Daten zwar Sammeln, sie aber nur bedingt einer
  einzelnen Person zuordnen.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Auflistung von Maßnahmen
 \begin_inset Newline newline
 \end_inset
 
