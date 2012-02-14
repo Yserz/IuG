@@ -96,7 +96,7 @@ titlepage
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename pics/FH-Logo.pdf
+	filename C:/Users/Dragon/git/IuG/pics/FH-Logo.pdf
 	width 5cm
 
 \end_inset
@@ -514,7 +514,7 @@ en.
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Weizen2001_10"
+key "Weizen2001"
 
 \end_inset
 
@@ -604,7 +604,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename pics/800px-Google.svg.png
+	filename C:/Users/Dragon/git/IuG/pics/800px-Google.svg.png
 	scale 20
 
 \end_inset
@@ -656,7 +656,7 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Das Unternehmen Google Incorporated (Logo siehe Abb 2.1) hat seinen Hauptsitz
+Das Unternehmen Google Incorporated (Logo siehe Abb 2.1) hat seinen Hauptsitzt
  in Mountain View (Kalifornien, USA) und wurde am 4.
  September 1998 von Larry Page und Sergei Brin gegründet.
  Google startete als Suchmaschine, jedoch bietet Google mittlerweile eine
@@ -761,7 +761,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename pics/512px-Android_robot.svg.png
+	filename C:/Users/Dragon/git/IuG/pics/512px-Android_robot.svg.png
 	scale 20
 
 \end_inset
@@ -859,7 +859,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename pics/256px-Chrome_2011_Logo.svg.png
+	filename C:/Users/Dragon/git/IuG/pics/256px-Chrome_2011_Logo.svg.png
 	scale 30
 
 \end_inset
@@ -953,7 +953,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename pics/mail_logo_rgb_web.png
+	filename C:/Users/Dragon/git/IuG/pics/mail_logo_rgb_web.png
 	lyxscale 10
 	scale 5
 
@@ -1002,7 +1002,7 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google Mail (Logo siehe Abb 2.4) ist ein Freemail-Dienst.
+Google Mail ist ein Freemail-Dienst.
  GMail zeichnet einen enorm großen Posteingang aus.
  Durch GMail kennt Google Ihre Kontakte und den Inhalt Ihrer Mails und kann
  Kontextbezogene Werbung einblenden.
@@ -1042,7 +1042,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename pics/docs_logo_rgb_web.png
+	filename C:/Users/Dragon/git/IuG/pics/docs_logo_rgb_web.png
 	lyxscale 10
 	scale 5
 
@@ -1091,8 +1091,8 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google Docs (Logo siehe Abb 2.5) ist eine Webanwendung für Textverarbeitung,
- Tabellenkalkulation, Präsentationen, Formulare und Zeichnungen.
+Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
+ Präsentationen, Formulare und Zeichnungen.
  Alle Dokumente können leicht an andere Google Docs Nutzer verteilt werden.
  Durch Google Docs kann Google analysieren welche Themen für Sie interessant
  sind und ggf.
@@ -1142,7 +1142,7 @@ Kritische Betrachtung
 \paragraph_spacing onehalf
 \noindent
 Personenbezogene Werbung, was ist daran eigentlich schlimm? Es ist doch
- viel vorteilhafter, wenn man nur das angezeigt bekommt, was einen auch
+ viel vorteilhafter, wenn man nur das angezeigt bekommet was einen auch
  wirklich interessiert.
  Das ist doch was Gutes.
  Naiv betrachtet stimmt das vielleicht jedoch ist der bloße Besitzt bzw.
@@ -1257,7 +1257,7 @@ Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
 \begin_layout Section
 \paragraph_spacing onehalf
 \noindent
-Googles Vorteile
+Vorteile von Google
 \end_layout
 
 \begin_layout Standard
@@ -1277,6 +1277,12 @@ Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit mit
  anderen Menschen über räumliche Grenzen hinweg.
  Das vereinfacht uns das Arbeiten und unterstützt die Globalisierung der
  Welt.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+//TODO Offene plattformen -> verfächter von Open-Source?.
 \begin_inset Newline newline
 \end_inset
 
@@ -1306,11 +1312,13 @@ Allgemein
 
 \begin_layout Standard
 \begin_inset Float figure
+placement H
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
+\noindent
 \begin_inset ERT
 status open
 
@@ -1325,7 +1333,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename pics/facebook_logo.jpg
+	filename C:/Users/Dragon/git/IuG/pics/facebook_logo.jpg
 
 \end_inset
 
@@ -1346,7 +1354,7 @@ end{center}
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Facebook Logo 
+Facobook Logo 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "FB2012"
@@ -1371,12 +1379,14 @@ key "FB2012"
 \end_layout
 
 \begin_layout Standard
-Facebook ist ein soziales Netzwerk das von dem Unternehmen Facebook.Inc betrieben
- wird.
+\paragraph_spacing onehalf
+\noindent
+Facebook (Logo siehe Abb 3.1) ist ein soziales Netzwerk das von dem Unternehmen
+ Facebook.Inc betrieben wird.
  das Unternehmen Facebook.Inc von dem Amerikaner Mark Zuckerberg gegründet.
  Facebook bietet den Mitglieder an eine Profilseite zu pflegen und sich
  dadurch selbst darzustellen.
- Des Weiteren bietet Facebook an mit Freunden in Kontakt zu bleiben, dies
+ Desweiteren bietet Facebook an mit Freunden in Kontakt zu bleiben, dies
  wird über Chats und den Veröffentlichungen realisiert.
  Die Besonderheit von Facebook ist, dass man Beiträge anderer Benutzer 
 \begin_inset Quotes eld
@@ -1418,12 +1428,16 @@ Freunde
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Bei Facebook sind Freunde das großte Thema, es versucht so viele Freunde
  wie möglich zubekommen.
  Doch da stellt sich die Frage sind Facebook-Freunde wahre Freunde?
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Viele der Facebook-Freunde kennt man doch gar nicht richtig, man hat sie
  über Facebook irgendwie kennengelernt und hat halt angefangen zu chaten.
  Jedoch haben wir diese Person noch nie in unserem Leben gesehen, wie können
@@ -1446,9 +1460,386 @@ nt und mit ihr chatet.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Dies war vielleicht ein sehr drastisches Beispiel, vielleicht ein etwas
  alltäglicheres Beispiel.
+ Stellen wir uns vor Person X möchte umziehen, weil er das nicht alleine
+ schaffen kann fragt er alle seine Facebook-Freunde.
+ Doch nun antworten nur die Freunde die er wirklich kennt und nicht nur
+ durch Facebook kennengelernt hat.
+ Da fällt doch auf, dass man nur auf Freunde zählen kann die man persönlich
+ kennengelernt hat und nicht auf Freunde aus dem Netz.
+ Und geht es nach Facebook würden wir alle unsere sozialen Kontakte über
+ Facebook realisieren, würde das aber nicht dazu führen, dass man in schwierigen
+ Situationen keinen mehr hat auf dem man sich verlassen kann? Früher hat
+ man gesagt ein habe einen guten Freund, heutzutage sagt man, dass man hunderte
+ Freunde hat, doch wie viel gute?
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Jeder sollte für sich eine gute Mischung finden zwischen 
+\begin_inset Quotes eld
+\end_inset
+
+ich lebe im Netz
+\begin_inset Quotes erd
+\end_inset
+
+ und 
+\begin_inset Quotes eld
+\end_inset
+
+ich lebe in der Realität
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Klar gibt es Freunde zu denen man nur den Kontakt halten kann über Internet,
+ aber nichts kann ein Treffen mit einem Freund ersetzen.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Joseph Weizenbaum sagte in einem Interview:
+\end_layout
+
+\begin_layout Quotation
+\paragraph_spacing onehalf
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Jeder ist immer erreichbar.
+ Die ganze Welt beschleunigt sich, alles ist dringend, und wo alles dringend
+ ist, ist nichts mehr dringend, und damit schlittern wir in eine Bedeutungslosig
+keit hinein.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Weizen2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Inwiefern hat diese Aussage etwas mit unserem Thema zu tun.
+ Naja bei Facebook kann mal alles reinschreiben, was einen so gerade bedrückt
+ oder was man gerade macht.
+ Jedoch wird auch viel unsinniges Tätigkeiten berichtet, wie soll man da
+ noch unterscheiden was wirklich wichtig ist und was nicht so wichtig ist.
+ Wenn ich duch lauter Flut von irgendwelchen Meldungen eine Meldung eines
+ Freundes verpasse, dass es ihm wirklich schlecht geht und er jemanden zum
+ reden braucht, wie wichtig ist es dann das wir überhaupt noch Kontakt haben,
+ gerade wenn der Freund nicht in meiner Nähe wohnt.
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing onehalf
+\noindent
+Like-Button
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/Dragon/git/IuG/pics/get.jpg
+	scale 55
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Gefallt mir
+\begin_inset Quotes erd
+\end_inset
+
+-Button
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Der 
+\begin_inset Quotes eld
+\end_inset
+
+Gefällt mir
+\begin_inset Quotes erd
+\end_inset
+
+-Button (Button siehe Abb.
+ 3.2, Englisch: Like-Button) ist ein Ausdrucksmittel, dass mir etwas gefällt
+ sei es eine Seite oder ein Beitrag den ich gelesen habe.
+ Facebook gibt den Benutzer die Möglichkeit diesen Button auf der eigenen
+ Seite anzuzeigen und mit der Facebookseite dazu zu verknüpfen.
+ Die Informationen ob mir die Seite gefällt oder nicht wird in einem Cookie
+ auf dem Computer des Benutzer gespeichert, diese Cookie hat eine Laufzeit
+ von 2 Jahren.
+ Aber nicht nur die Seite auf dem ich den 
+\begin_inset Quotes eld
+\end_inset
+
+Gefällt mir
+\begin_inset Quotes erd
+\end_inset
+
+-Button betätigt habe kann diese Informationen lesen, sondern auch jede
+ andere Seite.
+ Es ist schön, das man dadurch eine individuelle Werbung erhält, denn bei
+ dem gewaltigen Angobt zum Beispiel im Amazonshop würde man sich sonst recht
+ schlecht zurecht finden.
+ Es ist aber auch möglich damit ein genaues Profil zu erstellen welche Seite
+ man besucht hat.
+ Dies kann zu unangehmen Folgen führen.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Geht man zum Beispiel auf die Internetseite der Polizei weil man irgendetwas
+ nach schauen möchte und diese Seite liest die Cookie aus und es fällt auf
+ das man ab und an auf Filesharing oder Filehoster Seiten war, dann kommt
+ man doch ins Visier der Polizei und wird eventuell verstärkt kontrolliert.
+ Man selber hat aber davon nichts mitbekommen, da man von diesem Cookie
+ nichts wusste und es auch nicht ersichtlich ist, wer diese Daten ausliest
+ und wofür sie dann verwendet werden.
  
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Es ist verständlich, dass wenn ein Freund ein tolles Beitrag veröffentlicht
+ hat, dass man da gerne auf 
+\begin_inset Quotes eld
+\end_inset
+
+Gefällt mir
+\begin_inset Quotes erd
+\end_inset
+
+ drucken möchte, jedoch sollte man nicht unachtsam damit umgehen und alles
+ 
+\begin_inset Quotes eld
+\end_inset
+
+liken
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing onehalf
+\noindent
+Timeline
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename C:/Users/Dragon/git/IuG/pics/Facebook-timeline.jpg
+	scale 70
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Facebook Timeline
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Die Facebook-Timeline (Logo siehe Abb.
+ 3.3) ist die neuste Errungenschaft von Facebook.
+ Die Timeline wird auch als Chronik bezeichnet.
+ Was ist diese Timeline überhaupt? Die Timeline ist einfach ausgedrückt
+ eine Biografie im Internet.
+ Facebook steht jedem Benutzer dadurch die Möglichkeit sein ganzes Leben
+ aufzuzeichnen.
+ es ist möglich sein Geburtsdatum, sowie Einschulungsdatum und Hochzeitsdatum
+ anzugeben und Facebook stellt diese Information sehr schon auf einem Zeitstrahl
+ dar.
+ Auf diesem Zeitstrahl tauchen aber nicht nur Informationen die man explizit
+ dafür angegeben hat auf, sondern auch Informationen die man unbewusst preisgibt.
+ So wird zum Beispiel jeden Beitrag da angezigt und auch wann man seinen
+ Beziehungsstatus gewechselt hat und wie man diesen verändert hat.
+ So kann jeder nachvollziehen, wie lang eine Beziehung gedauert hat und
+ wie schnell man jemanden neues hatte.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Ein besonders wichtiger Punkt im Zusammenhang mit der Timeline in unserer
+ heutigen Gesellschaft ist, dass dort auch die Beschäftigungsverhältnisse
+ angezeigt werden.
+ Wenn man sich nun um einen neues Arbeitsplatz bewirbt kann der potienziell
+ neue Chef bei Facebook nachschauen, wie oft und wann der Bewerber sein
+ Arbeitsplatz gewechselt hat.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Mit Hilfe dieser Daten und den weiteren Daten die man bei Facebook so preisgibt,
+ erstellt Facebook uns ein kompletten Lebenslauf und wenn man noch mehr
+ angibt so gar eine komplette Bewerbung.
+ So braucht ein Bewerber nur noch, nähere Informationen finden Sie auf meinem
+ Facebook-Profil.
+ Jedoch werden nicht nur die Informationen gefunden die man möchte, sondern
+ auch die Informationen die der Chef eventuell nicht wissen sollte, da sie
+ zu privat sind oder einfach nur peinlich.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Information die einfach nur peinlich sind? Jeder von uns war sicherlich
+ schon mal auf einer Feier, sei es eine Familienfeier oder eine Studentenparty.
+ Auf solchen Feier werden oft Bilder gemacht.
+ Einige unter den Feiernden sind der Meinung, dass diese Bilder hochinteressant
+ für die Öffentlichkeit sind und stellen diese Fotos auch bei Facebook rein
+ und jetzt tauchen diese Bilder bei einem auf der Timeline auf.
+ Und da diese Timeline ja als Biografie im Internet dienen soll, gibt es
+ auch nicht die Möglichkeit sie von dieser Timeline zu entfernen.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Gibt es überhaupt die Möglichkeit irgendeine Information von der Timeline
+ zu entfernen? Nein! Denn das Internet und damit auch gerade die Timeline
+ vergisst nicht.
+ Damit bleiben Jugendsünden für immer in dieser Timeline und geraten nie
+ in Vergessheit.
+ Dabei ist schon in der Bibel die Rede davon, dass man seine Sünden wieder
+ gut machen kann und diese damit in Vergessheit gerade.
+ Die Timeline gibt uns diese Möglichkeit nicht, unsere 
+\begin_inset Quotes eld
+\end_inset
+
+Sünden
+\begin_inset Quotes erd
+\end_inset
+
+ bleiben damit ein Leben lang an uns haften.
 \end_layout
 
 \begin_layout Chapter
@@ -1486,59 +1877,7 @@ Auflistung von Maßnahmen
 \begin_layout Chapter
 \paragraph_spacing onehalf
 \noindent
-Fazit(MK)
-\end_layout
-
-\begin_layout Quotation
-\paragraph_spacing onehalf
-\noindent
-\begin_inset Quotes eld
-\end_inset
-
-Meine Frage lautet: Wer unterliegt der Macht der Technik? Ist es derjenige,
- der sie undifferenziert bejubelt, oder ist es der, der die Verhältnisse
- kritisch betrachtet und unter Umständen auch zu bestimmten Entwicklungen
- 
-\begin_inset Quotes eld
-\end_inset
-
-Nein
-\begin_inset Quotes erd
-\end_inset
-
- sagen kann?
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Weizen2001_34"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-Dieses Zitat spiegelt unsere Meinung äußerst gut wider.
- Unsere Gesellschaft ist leichtgläubig gegenüber neuer Technologie und fragt
- sich erst im Nachhinein welche Konsequenzen daraus zu ziehen sind und welche
- Gefahren neue Technologien beinhalten können.
- Jeder Mensch sollte selbst vorher überlegen ob gewisse Dienste im Internet
- von ihm unbedingt gebraucht werden und falls dies nicht der Fall ist, auch
- einmal 
-\begin_inset Quotes eld
-\end_inset
-
-Nein!
-\begin_inset Quotes erd
-\end_inset
-
- sagen können oder zumindest für sich differenziert was er von sich unbedingt
- preis geben muss.
+Fazit(TR+MK)
 \end_layout
 
 \begin_layout Standard
@@ -1553,6 +1892,16 @@ Nein!
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "bibtex/lit_verz"
@@ -1567,6 +1916,16 @@ options "bibtotoc,alphadin"
 \paragraph_spacing onehalf
 \noindent
 \begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+\begin_inset FloatList table
 
 \end_inset
 
