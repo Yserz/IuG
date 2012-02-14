@@ -1,4 +1,4 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
+﻿#LyX 2.0 created this file. For more info see http://www.lyx.org/
 \lyxformat 413
 \begin_document
 \begin_header
@@ -96,7 +96,7 @@ titlepage
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/FH-Logo.pdf
+	filename pics/FH-Logo.pdf
 	width 5cm
 
 \end_inset
@@ -325,7 +325,7 @@ status collapsed
 
 %
 \backslash
-pagestyle{scrheadings}    %Kopfzeile ein
+pagestyle{scrheadings} %Kopfzeile ein
 \end_layout
 
 \end_inset
@@ -514,7 +514,7 @@ en.
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Weizen2001"
+key "Weizen2001_10"
 
 \end_inset
 
@@ -604,7 +604,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/800px-Google.svg.png
+	filename pics/800px-Google.svg.png
 	scale 20
 
 \end_inset
@@ -656,7 +656,7 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Das Unternehmen Google Incorporated (Logo siehe Abb 2.1) hat seinen Hauptsitzt
+Das Unternehmen Google Incorporated (Logo siehe Abb 2.1) hat seinen Hauptsizt
  in Mountain View (Kalifornien, USA) und wurde am 4.
  September 1998 von Larry Page und Sergei Brin gegründet.
  Google startete als Suchmaschine, jedoch bietet Google mittlerweile eine
@@ -761,7 +761,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/512px-Android_robot.svg.png
+	filename pics/512px-Android_robot.svg.png
 	scale 20
 
 \end_inset
@@ -859,7 +859,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/256px-Chrome_2011_Logo.svg.png
+	filename pics/256px-Chrome_2011_Logo.svg.png
 	scale 30
 
 \end_inset
@@ -953,7 +953,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/mail_logo_rgb_web.png
+	filename pics/mail_logo_rgb_web.png
 	lyxscale 10
 	scale 5
 
@@ -1002,7 +1002,7 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google Mail ist ein Freemail-Dienst.
+Google Mail (Logo siehe Abb 2.4) ist ein Freemail-Dienst.
  GMail zeichnet einen enorm großen Posteingang aus.
  Durch GMail kennt Google Ihre Kontakte und den Inhalt Ihrer Mails und kann
  Kontextbezogene Werbung einblenden.
@@ -1042,7 +1042,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/docs_logo_rgb_web.png
+	filename pics/docs_logo_rgb_web.png
 	lyxscale 10
 	scale 5
 
@@ -1091,7 +1091,7 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
+Google Docs (Logo siehe Abb 2.5) ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
  Präsentationen, Formulare und Zeichnungen.
  Alle Dokumente können leicht an andere Google Docs Nutzer verteilt werden.
  Durch Google Docs kann Google analysieren welche Themen für Sie interessant
@@ -1142,7 +1142,7 @@ Kritische Betrachtung
 \paragraph_spacing onehalf
 \noindent
 Personenbezogene Werbung, was ist daran eigentlich schlimm? Es ist doch
- viel vorteilhafter, wenn man nur das angezeigt bekommet was einen auch
+ viel vorteilhafter, wenn man nur das angezeigt bekommt, was einen auch
  wirklich interessiert.
  Das ist doch was Gutes.
  Naiv betrachtet stimmt das vielleicht jedoch ist der bloße Besitzt bzw.
@@ -1257,7 +1257,7 @@ Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
 \begin_layout Section
 \paragraph_spacing onehalf
 \noindent
-Vorteile von Google
+Googles Vorteile
 \end_layout
 
 \begin_layout Standard
@@ -1277,12 +1277,12 @@ Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit mit
  anderen Menschen über räumliche Grenzen hinweg.
  Das vereinfacht uns das Arbeiten und unterstützt die Globalisierung der
  Welt.
-\end_layout
 
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-//TODO Offene plattformen -> verfächter von Open-Source?.
+
+
+
+
+
 \begin_inset Newline newline
 \end_inset
 
@@ -1312,13 +1312,13 @@ Allgemein
 
 \begin_layout Standard
 \begin_inset Float figure
-placement H
+
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
-\noindent
+
 \begin_inset ERT
 status open
 
@@ -1333,7 +1333,7 @@ begin{center}
 
 
 \begin_inset Graphics
-	filename C:/Users/Dragon/git/IuG1/pics/facebook_logo.jpg
+	filename pics/facebook_logo.jpg
 
 \end_inset
 
@@ -1354,7 +1354,7 @@ end{center}
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Facobook Logo 
+Facebook Logo
 \begin_inset CommandInset citation
 LatexCommand cite
 key "FB2012"
@@ -2122,7 +2122,59 @@ n annehmen sollten.
 \begin_layout Chapter
 \paragraph_spacing onehalf
 \noindent
-Fazit(TR+MK)
+Fazit(MK)
+\end_layout
+
+\begin_layout Quotation
+\paragraph_spacing onehalf
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Meine Frage lautet: Wer unterliegt der Macht der Technik? Ist es derjenige,
+ der sie undifferenziert bejubelt, oder ist es der, der die Verhältnisse
+ kritisch betrachtet und unter Umständen auch zu bestimmten Entwicklungen
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nein
+\begin_inset Quotes erd
+\end_inset
+
+ sagen kann?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Weizen2001_34"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Dieses Zitat spiegelt unsere Meinung äußerst gut wider.
+ Unsere Gesellschaft ist leichtgläubig gegenüber neuer Technologie und fragt
+ sich erst im Nachhinein welche Konsequenzen daraus zu ziehen sind und welche
+ Gefahren neue Technologien beinhalten können.
+ Jeder Mensch sollte selbst vorher überlegen ob gewisse Dienste im Internet
+ von ihm unbedingt gebraucht werden und falls dies nicht der Fall ist, auch
+ einmal
+\begin_inset Quotes eld
+\end_inset
+
+Nein!
+\begin_inset Quotes erd
+\end_inset
+
+ sagen können oder zumindest für sich differenziert was er von sich unbedingt
+ preis geben muss.
 \end_layout
 
 \begin_layout Standard
@@ -2137,16 +2189,6 @@ Fazit(TR+MK)
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "bibtex/lit_verz"
