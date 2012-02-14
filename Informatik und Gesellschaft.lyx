@@ -181,9 +181,10 @@ am Beispiel Google und Facebook
 
 \size huge
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
+<lyxtabular version="3" rows="3" columns="3">
 <features tabularvalignment="middle">
 <column alignment="right" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -199,7 +200,45 @@ Vorgelegt von:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Michael Koppen, Tino Reuschel
+Michael Koppen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20090003
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tino Reuschel
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20090016
 \end_layout
 
 \end_inset
@@ -220,6 +259,15 @@ am:
 
 \begin_layout Plain Layout
 30.01.2012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -466,7 +514,7 @@ en.
 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Weizen2001"
+key "Weizen2001_10"
 
 \end_inset
 
@@ -1209,7 +1257,7 @@ Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
 \begin_layout Section
 \paragraph_spacing onehalf
 \noindent
-Vorteile von Google
+Googles Vorteile
 \end_layout
 
 \begin_layout Standard
@@ -1475,12 +1523,12 @@ key "Weizen2001_34"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Dieses Zitat spiegelt unsere Meinung äußerst gut wieder.
+Dieses Zitat spiegelt unsere Meinung äußerst gut wider.
  Unsere Gesellschaft ist leichtgläubig gegenüber neuer Technologie und fragt
  sich erst im Nachhinein welche Konsequenzen daraus zu ziehen sind und welche
  Gefahren neue Technologien beinhalten können.
  Jeder Mensch sollte selbst vorher überlegen ob gewisse Dienste im Internet
- von ihm unbedingt gebraucht werden und falls dies nicht der Fall ist auch
+ von ihm unbedingt gebraucht werden und falls dies nicht der Fall ist, auch
  einmal 
 \begin_inset Quotes eld
 \end_inset
@@ -1491,15 +1539,6 @@ Nein!
 
  sagen können oder zumindest für sich differenziert was er von sich unbedingt
  preis geben muss.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-\begin_inset Newpage newpage
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1528,16 +1567,6 @@ options "bibtotoc,alphadin"
 \paragraph_spacing onehalf
 \noindent
 \begin_inset FloatList figure
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-\begin_inset FloatList table
 
 \end_inset
 
