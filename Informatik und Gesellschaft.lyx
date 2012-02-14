@@ -954,7 +954,7 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google Mail ist ein Freemail-Dienst.
+Google Mail (Logo siehe Abb 2.4) ist ein Freemail-Dienst.
  GMail zeichnet einen enorm großen Posteingang aus.
  Durch GMail kennt Google Ihre Kontakte und den Inhalt Ihrer Mails und kann
  Kontextbezogene Werbung einblenden.
@@ -1043,8 +1043,8 @@ key "Gimag2012"
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
- Präsentationen, Formulare und Zeichnungen.
+Google Docs (Logo siehe Abb 2.5) ist eine Webanwendung für Textverarbeitung,
+ Tabellenkalkulation, Präsentationen, Formulare und Zeichnungen.
  Alle Dokumente können leicht an andere Google Docs Nutzer verteilt werden.
  Durch Google Docs kann Google analysieren welche Themen für Sie interessant
  sind und ggf.
@@ -1094,7 +1094,7 @@ Kritische Betrachtung
 \paragraph_spacing onehalf
 \noindent
 Personenbezogene Werbung, was ist daran eigentlich schlimm? Es ist doch
- viel vorteilhafter, wenn man nur das angezeigt bekommet was einen auch
+ viel vorteilhafter, wenn man nur das angezeigt bekommt, was einen auch
  wirklich interessiert.
  Das ist doch was Gutes.
  Naiv betrachtet stimmt das vielleicht jedoch ist der bloße Besitzt bzw.
@@ -1229,12 +1229,6 @@ Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit mit
  anderen Menschen über räumliche Grenzen hinweg.
  Das vereinfacht uns das Arbeiten und unterstützt die Globalisierung der
  Welt.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-//TODO Offene plattformen -> verfächter von Open-Source?.
 \begin_inset Newline newline
 \end_inset
 
@@ -1445,6 +1439,37 @@ Auflistung von Maßnahmen
 \paragraph_spacing onehalf
 \noindent
 Fazit(TR+MK)
+\end_layout
+
+\begin_layout Quotation
+\paragraph_spacing onehalf
+\noindent
+\begin_inset Quotes eld
+\end_inset
+
+Meine Frage lautet: Wer unterliegt der Macht der Technik? Ist es derjenige,
+ der sie undifferenziert bejubelt, oder ist es der, der die Verhälnisse
+ kritisch betrachtet und unter Umständen auch zu bestimmten Entwicklungen
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Nein
+\begin_inset Quotes erd
+\end_inset
+
+ sagen kann?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Weizen2001_34"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
