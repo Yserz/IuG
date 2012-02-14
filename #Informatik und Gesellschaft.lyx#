@@ -181,12 +181,13 @@ am Beispiel Google und Facebook
 
 \size huge
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
+<lyxtabular version="3" rows="3" columns="3">
 <features tabularvalignment="middle">
 <column alignment="right" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="0pt">
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -199,7 +200,45 @@ Vorgelegt von:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Michael Koppen, Tino Reuschel
+Michael Koppen
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20090003
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tino Reuschel
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20090016
 \end_layout
 
 \end_inset
@@ -220,6 +259,15 @@ am:
 
 \begin_layout Plain Layout
 30.01.2012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -770,8 +818,7 @@ Android (Logo siehe Abb 2.2) ist ein von Google entwickeltes Betriebssystem
  Google kann damit Ihre SMS, Kontakte, Mails und Telefonate aufzeichnen
  und Rückschlüsse auf Ihre Interessen ziehen.
  Das ist aber noch nicht genug.
- Google kennt natürlich auch hier Ihren Browserverlauf und dazu auch noch
- Ihre Position.
+ Google kennt natürlich Ihren Browserverlauf und dazu auch noch Ihre Position.
  Das alles kann Google nun in einen Zusammenhang setzen, da man das Android-Gerä
 t mit einem G-Mail-Konto verbinden muss.
  Von Googles Android Betriebssystem kommen also die perfekt in Zusammenhang
@@ -1092,12 +1139,8 @@ Kritische Betrachtung
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
-//TODO personenbezogene Werbung -> schlimm? -> hintergrund -> schleichende
- akzeptanz
-\end_layout
-
-\begin_layout Standard
 Personenbezogene Werbung, was ist daran eigentlich schlimm? Es ist doch
  viel vorteilhafter, wenn man nur das angezeigt bekommet was einen auch
  wirklich interessiert.
@@ -1106,14 +1149,17 @@ Personenbezogene Werbung, was ist daran eigentlich schlimm? Es ist doch
  die Möglichkeit personenbezogene Werbung zu produzieren ein kritischer
  Punkt.
  Um personenbezogene Werbung produzieren zu können, muss man Sie beobachten!
- Man muss wissen, was Ihnen gefällt und was Sie interessiert
+ Man muss wissen, was Ihnen gefällt und was Sie interessiert.
+ Man muss wissen, wo Sie zuletzt im Internet unterwegs waren.
+ Und was am schlimmsten ist, man muss wissen, dass Sie es sind, die zu diesem
+ Profil gehören.
+ 
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google erstellt also ein Profil von Ihnen, Ihren Gewohnheiten und Ihren
- Interessen.
+Google erstellt ein Profil von Ihnen, Ihren Gewohnheiten und Ihren Interessen.
  Man könnte nun bei entsprechender Nutzung der Google-Dienste sagen, Google
  weiß alles über Sie.
  Und genau dort besteht ein potenzielles Problem.
@@ -1172,7 +1218,9 @@ Don´t do Evil!
 \end_layout
 
 \begin_layout Standard
-Nun, unsere Gesellschaft baut darauf auf zu vergeben.
+\paragraph_spacing onehalf
+\noindent
+Nun, unsere Gesellschaft baut darauf auf, zu vergeben.
  Zum Beispiel kann man in der Kirche Vergebung finden oder in unserem Rechtssyst
 em, wenn man z.B.
  seine Strafe abgesessen hat.
@@ -1185,6 +1233,8 @@ em, wenn man z.B.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
  einzige Gefahr die von Google ausgeht.
  Angenommen Google wäre unsere einzige Informationsbeschaffungsquelle, dann
@@ -1196,8 +1246,8 @@ Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
  Dies würde weitreichende Konsequenzen in der Politik haben.
  Google könnte Wahlen beeinflussen oder gar Kriege provozieren indem Daten
  hervorgehoben oder unterdrückt werden.
- Die Gesellschaft würde davon wenig mitbekommen und dem zufolge auch nicht
- verhindern können.
+ Die Gesellschaft würde davon wenig mitbekommen und dem zufolge das auch
+ nicht verhindern können.
 \begin_inset Newline newline
 \end_inset
 
@@ -1230,6 +1280,7 @@ Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit mit
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
 \noindent
 //TODO Offene plattformen -> verfächter von Open-Source?.
 \begin_inset Newline newline
@@ -1259,6 +1310,154 @@ Facebook(TR)
 Allgemein
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename pics/facebook_logo.jpg
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Facobook Logo 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "FB2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Facebook ist ein soziales Netzwerk das von dem Unternehmen Facebook.Inc betrieben
+ wird.
+ das Unternehmen Facebook.Inc von dem Amerikaner Mark Zuckerberg gegründet.
+ Facebook bietet den Mitglieder an eine Profilseite zu pflegen und sich
+ dadurch selbst darzustellen.
+ Desweiteren bietet Facebook an mit Freunden in Kontakt zu bleiben, dies
+ wird über Chats und den Veröffentlichungen realisiert.
+ Die Besonderheit von Facebook ist, dass man Beiträge anderer Benutzer 
+\begin_inset Quotes eld
+\end_inset
+
+liken
+\begin_inset Quotes erd
+\end_inset
+
+ kann.
+ Damit ist gemeint unter jedem Beitrag ist ein Button 
+\begin_inset Quotes eld
+\end_inset
+
+Gefällt mir
+\begin_inset Quotes erd
+\end_inset
+
+ (Englisch: like), dadurch signaliesiert man, dass einem der Beitrag gefällt.
+ Ein 
+\begin_inset Quotes eld
+\end_inset
+
+Gefällt mir nicht
+\begin_inset Quotes erd
+\end_inset
+
+ Button gibt es jedoch nicht.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+\paragraph_spacing onehalf
+\noindent
+Freunde
+\end_layout
+
+\begin_layout Standard
+Bei Facebook sind Freunde das großte Thema, es versucht so viele Freunde
+ wie möglich zubekommen.
+ Doch da stellt sich die Frage sind Facebook-Freunde wahre Freunde?
+\end_layout
+
+\begin_layout Standard
+Viele der Facebook-Freunde kennt man doch gar nicht richtig, man hat sie
+ über Facebook irgendwie kennengelernt und hat halt angefangen zu chaten.
+ Jedoch haben wir diese Person noch nie in unserem Leben gesehen, wie können
+ wir also wissen ob diese Person wirklich die ist, die sie vorgibt zu sein.
+ Stellen wir uns doch mal vor ein älterer Mann der auf junge Mädchen steht,
+ meldet sich bei Facebook an.
+ Soweit kein Problem, aber nun gibt er ein falschen Namen, sowie ein falschen
+ Geburtsdatum an und als Profilbild verwendet er ein Bild, das er im Internet
+ gefunden hat.
+ Durch diese drei einfachen Sachen, hat er sich doch schon eine neue Identität
+ bei Facebook zu gelegt, die wahrscheinlich in keinem Zusammenhang mit seiner
+ wahrer Identität steht.
+ Gehen wir weiter davon aus, dass er einen junges Mädchen bei Facebook kennenler
+nt und mit ihr chatet.
+ Durch das chaten mit diesem Mädchen baut er ein Vertrauensverhältnis zu
+ dem Mädchen auf und bei entschließen sich zu treffen.
+ Kurz darauf verschwindet das Mädchen spurlos und keine Spur führt zum wahren
+ Täter.
+ 
+\end_layout
+
+\begin_layout Standard
+Dies war vielleicht ein sehr drastisches Beispiel, vielleicht ein etwas
+ alltäglicheres Beispiel.
+ 
+\end_layout
+
 \begin_layout Chapter
 \paragraph_spacing onehalf
 \noindent
@@ -1276,6 +1475,8 @@ Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
 //TODO wenn nicht unbedingt nötig auch andere dienstanbieter nutzen
 \end_layout
 
@@ -1316,6 +1517,16 @@ Fazit(TR+MK)
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "bibtex/lit_verz"
