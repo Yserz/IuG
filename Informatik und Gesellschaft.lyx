@@ -769,6 +769,12 @@ Android (Logo siehe Abb 2.2) ist ein von Google entwickeltes Betriebssystem
  für Smartphones, Tablets und Netbooks.
  Google kann damit Ihre SMS, Kontakte, Mails und Telefonate aufzeichnen
  und Rückschlüsse auf Ihre Interessen ziehen.
+ Das ist aber noch nicht genug.
+ Google kennt natürlich Ihren Browserverlauf und dazu auch noch Ihre Position.
+ Das alles kann Google nun in einen Zusammenhang setzen, da man das Android-Gerä
+t mit einem G-Mail-Konto verbinden muss.
+ Von Googles Android Betriebssystem kommen also die perfekt in Zusammenhang
+ gesetzten Daten.
 \begin_inset Newline newline
 \end_inset
 
@@ -1039,7 +1045,7 @@ key "Gimag2012"
 \noindent
 Google Docs ist eine Webanwendung für Textverarbeitung, Tabellenkalkulation,
  Präsentationen, Formulare und Zeichnungen.
- Alle Dokumente können leicht an andere Google Docs Nurtzer verteilt werden.
+ Alle Dokumente können leicht an andere Google Docs Nutzer verteilt werden.
  Durch Google Docs kann Google analysieren welche Themen für Sie interessant
  sind und ggf.
  kritische Daten wie Kontodaten und Verdienst einsehen.
@@ -1087,8 +1093,25 @@ Kritische Betrachtung
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Google erstellt also ein Profil von Ihnen, Ihren Gewohnheiten und Ihren
- Interessen.
+Personenbezogene Werbung, was ist daran eigentlich schlimm? Es ist doch
+ viel vorteilhafter, wenn man nur das angezeigt bekommet was einen auch
+ wirklich interessiert.
+ Das ist doch was Gutes.
+ Naiv betrachtet stimmt das vielleicht jedoch ist der bloße Besitzt bzw.
+ die Möglichkeit personenbezogene Werbung zu produzieren ein kritischer
+ Punkt.
+ Um personenbezogene Werbung produzieren zu können, muss man Sie beobachten!
+ Man muss wissen, was Ihnen gefällt und was Sie interessiert.
+ Man muss wissen, wo Sie zuletzt im Internet unterwegs waren.
+ Und was am schlimmsten ist, man muss wissen, dass Sie es sind, die zu diesem
+ Profil gehören.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Google erstellt ein Profil von Ihnen, Ihren Gewohnheiten und Ihren Interessen.
  Man könnte nun bei entsprechender Nutzung der Google-Dienste sagen, Google
  weiß alles über Sie.
  Und genau dort besteht ein potenzielles Problem.
@@ -1131,8 +1154,8 @@ Was passiert also, wenn Google außer Kontrolle gerät, wenn wir Google nicht
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Was passiert, wenn Google diese Daten missbraucht.
- Was passiert, wenn Google nicht mehr seinem Leitsatz 
+Was passiert, wenn Google diese Daten missbraucht? Was passiert, wenn Google
+ nicht mehr seinem Leitsatz 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1143,6 +1166,22 @@ Don´t do Evil!
  folgt oder anders interpretiert? Was passiert, wenn Google diese Daten
  gegen Sie verwendet? Was wäre, wenn jeder Mensch auf dieser Welt Ihre intimsten
  Geheimnisse kennt? Welche Macht hat Google über jeden einzelnen von uns?
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+Nun, unsere Gesellschaft baut darauf auf, zu vergeben.
+ Zum Beispiel kann man in der Kirche Vergebung finden oder in unserem Rechtssyst
+em, wenn man z.B.
+ seine Strafe abgesessen hat.
+ Wenn Google aber jegliche Information über jeden einzelnen von uns hätte
+ und veröffentlichen würde, würde kein Mensch auf dieser Welt mehr Vergebung
+ finden.
+ Vergessen Sie dabei nicht: Das Internet vergisst nicht! Wenn Sie einen
+ großen Fehler gemacht haben als Sie 16 waren, könnte man Ihnen das noch
+ nach 60 Jahren oder länger vorhalten.
 \end_layout
 
 \begin_layout Standard
@@ -1157,6 +1196,10 @@ Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
  Google könnte zum Beispiel nur wohlwollende Beiträge gegenüber einer Partei
  anzeigen oder Fehlinformationen über Handlungen von Ländern hervorheben.
  Dies würde weitreichende Konsequenzen in der Politik haben.
+ Google könnte Wahlen beeinflussen oder gar Kriege provozieren indem Daten
+ hervorgehoben oder unterdrückt werden.
+ Die Gesellschaft würde davon wenig mitbekommen und dem zufolge das auch
+ nicht verhindern können.
 \begin_inset Newline newline
 \end_inset
 
@@ -1166,7 +1209,7 @@ Bisher betrachteten wir was Google über uns weiß, dies ist aber nicht die
 \begin_layout Section
 \paragraph_spacing onehalf
 \noindent
-Google Pros
+Vorteile von Google
 \end_layout
 
 \begin_layout Standard
@@ -1186,6 +1229,12 @@ Des Weiteren ermöglicht Google schnelle und einfache Zusammenarbeit mit
  anderen Menschen über räumliche Grenzen hinweg.
  Das vereinfacht uns das Arbeiten und unterstützt die Globalisierung der
  Welt.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+//TODO Offene plattformen -> verfächter von Open-Source?.
 \begin_inset Newline newline
 \end_inset
 
@@ -1227,6 +1276,12 @@ Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
  verknüpft.
  Dadurch kann Google die Daten zwar Sammeln, sie aber nur bedingt einer
  einzelnen Person zuordnen.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\noindent
+//TODO wenn nicht unbedingt nötig auch andere dienstanbieter nutzen
 \end_layout
 
 \begin_layout Standard
