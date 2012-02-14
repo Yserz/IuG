@@ -58,12 +58,12 @@
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
-\tracking_changes true
+\tracking_changes false
 \output_changes false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
-\author 128633189 "Michael Koppen" 
+\author -1362907488 "Dragon" 
 \end_header
 
 \begin_body
@@ -259,19 +259,7 @@ am:
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\change_inserted 128633189 1329256496
-15
-\change_deleted 128633189 1329256483
-30
-\change_unchanged
-.0
-\change_inserted 128633189 1329256486
-2
-\change_deleted 128633189 1329256486
-1
-\change_unchanged
-.2012
+15.02.2012
 \end_layout
 
 \end_inset
@@ -505,10 +493,6 @@ key "Gimag2012"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
@@ -556,12 +540,6 @@ key "Gz2012"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
 
 \end_layout
 
@@ -662,10 +640,6 @@ key "Gimag2012"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
@@ -757,10 +731,6 @@ key "Gimag2012"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -1223,10 +1193,6 @@ key "FB2012"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
@@ -1240,14 +1206,8 @@ Facebook (Logo siehe Abb 3.1) ist ein soziales Netzwerk, dass von dem Unternehme
  Das Unternehmen Facebook.Inc wurde von dem Amerikaner Mark Zuckerberg gegründet.
  Facebook bietet den Mitgliedern an eine Profilseite zu pflegen und sich
  dadurch selbst darzustellen.
- Des 
-\change_inserted 128633189 1329254149
-W
-\change_deleted 128633189 1329254149
-W
-\change_unchanged
-eiteren bietet Facebook an mit Freunden in Kontakt zu bleiben, dies wird
- über Chats und den Veröffentlichungen realisiert.
+ Des Weiteren bietet Facebook an mit Freunden in Kontakt zu bleiben, dies
+ wird über Chats und dem veröffentlichen von Beiträgen realisiert.
  Die Besonderheit von Facebook ist, dass man Beiträge anderer Benutzer 
 \begin_inset Quotes eld
 \end_inset
@@ -1300,11 +1260,7 @@ Bei Facebook sind Freunde das große Thema, es wird versucht so viele Freunde
 \paragraph_spacing onehalf
 \noindent
 Viele der Facebook-Freunde kennt man doch gar nicht richtig, man hat sie
- über Facebook irgendwie kennengelernt und hat halt angefangen zu chat
-\change_inserted 128633189 1329254179
-t
-\change_unchanged
-en.
+ über Facebook irgendwie kennengelernt und hat halt angefangen zu chatten.
  Jedoch haben wir diese Person noch nie in unserem Leben gesehen, wie können
  wir also wissen ob diese Person wirklich die ist, die sie vorgibt zu sein.
  Stellen wir uns doch mal vor ein älterer Mann der auf junge Mädchen steht,
@@ -1316,13 +1272,9 @@ en.
  bei Facebook zugelegt, die wahrscheinlich in keinem Zusammenhang mit seiner
  wahrer Identität steht.
  Gehen wir weiter davon aus, dass er einen junges Mädchen bei Facebook kennenler
-nt und mit ihr chatet.
- Durch das Chat
-\change_inserted 128633189 1329254207
-t
-\change_unchanged
-en mit diesem Mädchen baut er ein Vertrauensverhältnis zu dem Mädchen auf
- und beide entschließen sich zu treffen.
+nt und mit ihr chattet.
+ Durch das Chatten mit diesem Mädchen baut er ein Vertrauensverhältnis zu
+ dem Mädchen auf und beide entschließen sich zu treffen.
  Kurz darauf verschwindet das Mädchen spurlos und keine Spur führt zum wahren
  Täter.
  
@@ -1331,23 +1283,19 @@ en mit diesem Mädchen baut er ein Vertrauensverhältnis zu dem Mädchen auf
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Dies war vielleicht ein sehr drastisches Beispiel, vielleicht ein etwas
+Dies war vielleicht ein sehr drastisches Beispiel, vielleicht nun ein etwas
  alltäglicheres Beispiel.
  Stellen wir uns vor Person X möchte umziehen, weil er das nicht alleine
- schaffen kann
-\change_inserted 128633189 1329254282
-,
-\change_unchanged
- fragt er alle seine Facebook-Freunde.
+ schaffen kann, fragt er alle seine Facebook-Freunde.
  Doch nun antworten nur die Freunde die er wirklich kennt und nicht nur
  durch Facebook kennengelernt hat.
- Da fällt doch auf, dass man nur auf Freunde zählen kann die man persönlich
+ Da fällt doch auf, dass man nur auf Freunde zählen kann, die man persönlich
  kennengelernt hat und nicht auf Freunde aus dem Netz.
  Geht es jedoch nach Facebook würden wir alle unsere sozialen Kontakte über
  Facebook realisieren, würde das aber nicht dazu führen, dass man in schwierigen
  Situationen keinen mehr hat, auf dem man sich verlassen kann? Früher hat
- man gesagt ein habe einen guten Freund, heutzutage sagt man, dass man hunderte
- Freunde hat, doch wie viel gute?
+ man gesagt, dass man einen guten Freund hat, heutzutage sagt man, dass
+ man hunderte Freunde hat, doch wie viel gute?
 \end_layout
 
 \begin_layout Standard
@@ -1370,12 +1318,8 @@ ich lebe in der Realität
 \end_inset
 
 .
- Klar gibt es Freunde
-\change_inserted 128633189 1329254407
-,
-\change_unchanged
- zu denen man nur den Kontakt halten kann über das Internet, aber nichts
- kann ein Treffen mit einem Freund ersetzen.
+ Klar gibt es Freunde, zu denen man nur den Kontakt halten kann über das
+ Internet, aber nichts kann ein Treffen mit einem Freund ersetzen.
 \end_layout
 
 \begin_layout Standard
@@ -1411,30 +1355,27 @@ key "Weizen2004"
 \paragraph_spacing onehalf
 \noindent
 Inwiefern hat diese Aussage etwas mit unserem Thema zu tun? Naja bei Facebook
- kann ma
-\change_inserted 128633189 1329254490
-n
-\change_deleted 128633189 1329254489
-l
-\change_unchanged
- alles reinschreiben, was einen so gerade bedrückt oder was man gerade macht.
+ kann man alles reinschreiben, was einen so gerade bedrückt oder was man
+ gerade macht.
  Jedoch werden auch viele unsinnige Tätigkeiten berichtet, wie soll man
  da noch unterscheiden was wirklich wichtig ist und was nicht wichtig ist.
- Wenn ich duch lauter Flut von irgendwelchen Meldungen eine Meldung eines
+ Wenn ich durch die Flut von irgendwelchen Meldungen eine Meldung eines
  Freundes verpasse, dass es ihm wirklich schlecht geht und er jemanden zum
- reden braucht, wie wichtig ist es dann
-\change_inserted 128633189 1329254477
-,
-\change_unchanged
- das
-\change_inserted 128633189 1329254478
-s
-\change_unchanged
- wir überhaupt noch Kontakt haben, gerade wenn der Freund nicht in meiner
- Nähe wohnt.
+ reden braucht, wie wichtig ist es dann, dass wir überhaupt noch Kontakt
+ haben, gerade wenn der Freund nicht in meiner Nähe wohnt.
+\change_deleted -1362907488 1329258825
+
 \begin_inset Newline newline
 \end_inset
 
+
+\change_inserted -1362907488 1329258840
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\change_unchanged
 
 \end_layout
 
@@ -1454,25 +1395,10 @@ Benutzer des Smartphone-Betriebssystems Android, die noch nicht bei Facebook
  App Daten zu Facebook, mit den Vornamen, Nachnamen, Email-Adresse und Handynumm
 er der im Adressbuch gespeicherten Kontakten.
  Sollte dieser vermeintliche Facebook-Nutzer nun doch entscheiden sich bei
- Facebook anzumelden
-\change_inserted 128633189 1329254551
-,
-\change_unchanged
- bekommt 
-\change_inserted 128633189 1329254548
-er 
-\change_unchanged
-eine umfassende Liste mit Freunden
-\change_inserted 128633189 1329254557
-,
-\change_unchanged
- die ihm vorgeschlagen werden, auf Grundlagen seines Adressbuchs auf dem
- Smartphone.
+ Facebook anzumelden, bekommt er eine umfassende Liste mit Freunden, die
+ ihm vorgeschlagen werden, auf Grundlagen seines Adressbuchs auf dem Smartphone.
  Viele werden jetzt sagen ist doch schön, dann erspart man sich wenigstens
- das Suchen aller Freunde, aber es gibt auch Nutzer von Android Smartphones
-\change_inserted 128633189 1329254588
-,
-\change_unchanged
+ das Suchen aller Freunde, aber es gibt auch Nutzer von Android Smartphones,
  die wirklich nicht bei Facebook sein wollen.
  Über diese Nutzer weiß Facebook trotzdem mit welchen Personen dieser Nutzer
  befreundet ist.
@@ -1497,16 +1423,8 @@ informationelle Selbstbestimmung
 
 .
  Aus diesem Grunde gehen deutsche Datenschützer verstärkt dagegen an.
- Sie werden Versuchen
-\change_inserted 128633189 1329254624
-,
-\change_unchanged
- das
-\change_inserted 128633189 1329254625
-s
-\change_unchanged
- sich Facebook dem deutschen Datenschutz in diesem Punkt beugt und diese
- Funktion abgeschaltet wird.
+ Sie werden Versuchen, dass sich Facebook dem deutschen Datenschutz in diesem
+ Punkt beugt und diese Funktion abgeschaltet wird.
  Zurzeit gibt es bloß die Möglichkeit sich an Facebook zu wenden und um
  die Löschung der Daten zu bitten.
 \begin_inset Newline newline
@@ -1590,10 +1508,6 @@ key "FBLike"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
@@ -1611,22 +1525,14 @@ Gefällt mir
 \end_inset
 
 -Button (Button siehe Abb.
- 3.2, Englisch: Like-Button) ist ein Ausdrucksmittel, dass mir etwas gefällt
+ 3.2, Englisch: Like-Button) ist ein Ausdrucksmittel, dass mir etwas gefällt,
  sei es eine Seite oder ein Beitrag den ich gelesen habe.
- Facebook gibt den Benutzer die Möglichkeit diesen Button auf der eigenen
- Interneteite au
-\change_inserted 128633189 1329254676
-ß
-\change_deleted 128633189 1329254676
-s
-\change_unchanged
-erhalb von Facebook anzuzeigen und mit der Facebookseite zu verknüpfen.
- Die Informationen
-\change_inserted 128633189 1329254686
-,
-\change_unchanged
- ob mir die Seite gefällt oder nicht wird in einem Cookie auf dem Computer
- des Benutzer gespeichert, diese Cookie hat eine Laufzeit von 2 Jahren.
+ Facebook gibt dem Benutzer die Möglichkeit diesen Button auf der eigenen
+ Interneteite außerhalb von Facebook anzuzeigen und mit der Facebookseite
+ zu verknüpfen.
+ Die Informationen, ob mir die Seite gefällt oder nicht wird in einem Cookie
+ auf dem Computer des Benutzer gespeichert, dieser Cookie hat eine Laufzeit
+ von 2 Jahren.
  Aber nicht nur die Seite auf dem ich den 
 \begin_inset Quotes eld
 \end_inset
@@ -1638,20 +1544,10 @@ Gefällt mir
 -Button betätigt habe kann diese Informationen lesen, sondern auch jede
  andere Seite.
  Es ist schön, das man dadurch eine individuelle Werbung erhält, denn bei
- dem gewaltigen Angobt
-\change_inserted 128633189 1329254714
-,
-\change_unchanged
- zum Beispiel im Amazonshop
-\change_inserted 128633189 1329254716
-,
-\change_unchanged
- würde man sich sonst recht schlecht zurecht finden.
- Es ist aber auch möglich
-\change_inserted 128633189 1329254729
-,
-\change_unchanged
- damit ein genaues Profil zu erstellen welche Seite man besucht hat.
+ dem gewaltigen Angobt, zum Beispiel im Amazonshop, würde man sich sonst
+ recht schlecht zurecht finden.
+ Es ist aber auch möglich, damit ein genaues Profil zu erstellen welche
+ Seite man besucht hat.
  Dies kann zu unangehmen Folgen führen.
 \end_layout
 
@@ -1659,10 +1555,10 @@ Gefällt mir
 \paragraph_spacing onehalf
 \noindent
 Geht man zum Beispiel auf die Internetseite der Polizei, weil man irgendetwas
- nach schauen möchte und diese Seite liest die Cookie aus und es fällt auf
- das man ab und an auf Filesharing oder Filehoster Seiten war, dann kommt
- man doch ins Visier der Polizei und wird eventuell verstärkt im Surf- und
- Downloadverhalten kontrolliert.
+ nach schauen möchte und diese Seite liest diesen Cookie aus und es fällt
+ auf das man ab und an auf Filesharing oder Filehoster Seiten war, dann
+ kommt man doch ins Visier der Polizei und wird eventuell verstärkt im Surf-
+ und Downloadverhalten kontrolliert.
  Man selber hat aber davon nichts mitbekommen, da man von diesem Cookie
  nichts wusste und es auch nicht ersichtlich ist, wer diese Daten ausliest
  und wofür sie dann verwendet werden.
@@ -1672,17 +1568,8 @@ Geht man zum Beispiel auf die Internetseite der Polizei, weil man irgendetwas
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Es ist verständlich, dass wenn ein Freund ein
-\change_inserted 128633189 1329254775
-en
-\change_unchanged
- tolle
-\change_inserted 128633189 1329254773
-n
-\change_deleted 128633189 1329254773
-s
-\change_unchanged
- Beitrag veröffentlicht hat, dass man da gerne auf 
+Es ist verständlich, dass wenn ein Freund einen tollen Beitrag veröffentlicht
+ hat, dass man da gerne auf 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1790,31 +1677,13 @@ Die Facebook-Timeline (Logo siehe Abb.
  Facebook stellt jedem Benutzer dadurch die Möglichkeit zur Verfügung sein
  ganzes Leben aufzuzeichnen.
  Es ist möglich sein Geburtsdatum, sowie Einschulungsdatum und Hochzeitsdatum
- anzugeben und Facebook stellt diese Information sehr sch
-\change_inserted 128633189 1329254957
-ö
-\change_deleted 128633189 1329254957
-o
-\change_unchanged
-n auf einem Zeitstrahl dar.
- Auf diesem Zeitstrahl tauchen aber nicht nur Informationen die man explizit
- dafür angegeben hat auf, sondern auch Informationen die man unbewusst preisgibt.
- So wird zum Beispiel jede
-\change_inserted 128633189 1329255176
-r
-\change_deleted 128633189 1329255176
-n
-\change_unchanged
- Beitrag angez
-\change_inserted 128633189 1329255179
-e
-\change_unchanged
-igt und auch
-\change_inserted 128633189 1329255183
-,
-\change_unchanged
- wann man seinen Beziehungsstatus gewechselt hat und wie man diesen verändert
- hat.
+ anzugeben und Facebook stellt diese Information sehr schön auf einem Zeitstrahl
+ dar.
+ Auf diesem Zeitstrahl tauchen aber nicht nur Informationen, die man explizit
+ dafür angegeben hat, auf, sondern auch Informationen die man unbewusst
+ preisgibt.
+ So wird zum Beispiel jeder Beitrag angezeigt und auch, wann man seinen
+ Beziehungsstatus gewechselt hat und wie man diesen verändert hat.
  So kann jeder nachvollziehen, wie lang eine Beziehung gedauert hat und
  wie schnell man jemanden Neues gefunden hat.
  
@@ -1826,54 +1695,30 @@ igt und auch
 Ein besonders wichtiger Punkt im Zusammenhang mit der Timeline in unserer
  heutigen Gesellschaft ist, dass dort auch die Beschäftigungsverhältnisse
  angezeigt werden.
- Wenn man sich nun um einen neue
-\change_inserted 128633189 1329255223
-n
-\change_deleted 128633189 1329255223
-s
-\change_unchanged
- Arbeitsplatz bewirbt
-\change_inserted 128633189 1329255568
-,
-\change_unchanged
- kann der potienziell neue Chef bei Facebook nachschauen, wie oft und wann
- der Bewerber sein Arbeitsplatz gewechselt hat.
+ Wenn man sich nun um einen neuen Arbeitsplatz bewirbt, kann der potienziell
+ neue Chef bei Facebook nachschauen, wie oft und wann der Bewerber sein
+ Arbeitsplatz gewechselt hat.
  
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Mit Hilfe dieser Daten und den weiteren Daten die man bei Facebook
-\change_deleted 128633189 1329255255
- so
-\change_unchanged
- preisgibt, erstellt Facebook uns ein kompletten Lebenslauf und wenn man
- noch mehr angibt so gar eine komplette Bewerbung.
+Mit Hilfe dieser Daten und den weiteren Daten die man bei Facebook preisgibt,
+ erstellt Facebook uns ein kompletten Lebenslauf und wenn man noch mehr
+ angibt so gar eine komplette Bewerbung.
  So braucht ein Bewerber nur noch auf sein Facebook-Profil verweisen.
  Jedoch werden nicht nur die Informationen gefunden die man möchte, sondern
- auch die Informationen
-\change_inserted 128633189 1329255278
-,
-\change_unchanged
- die der Chef eventuell nicht wissen sollte, da sie zu privat sind oder
- einfach nur peinlich.
+ auch die Informationen, die der Chef eventuell nicht wissen sollte, da
+ sie zu privat sind oder einfach nur peinlich.
 \end_layout
 
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Information
-\change_inserted 128633189 1329255292
-en
-\change_unchanged
- die einfach nur peinlich sind? Jeder von uns war sicherlich schon mal auf
- einer Feier, sei es eine Familienfeier oder eine Studentenparty.
- Auf solchen Feier
-\change_inserted 128633189 1329255305
-n
-\change_unchanged
- werden oft Bilder gemacht.
+Informationen die einfach nur peinlich sind? Jeder von uns war sicherlich
+ schon mal auf einer Feier, sei es eine Familienfeier oder eine Studentenparty.
+ Auf solchen Feiern werden oft Bilder gemacht.
  Einige unter den Feiernden sind der Meinung, dass diese Bilder hochinteressant
  für die Öffentlichkeit sind und stellen diese Fotos auch bei Facebook rein
  und jetzt tauchen diese Bilder bei einem auf der Timeline auf.
@@ -1888,23 +1733,9 @@ Gibt es überhaupt die Möglichkeit irgendeine Information von der Timeline
  zu entfernen? Nein! Denn das Internet und damit auch gerade die Timeline
  vergisst nicht.
  Damit bleiben Jugendsünden für immer in dieser Timeline und geraten nie
- in Vergess
-\change_inserted 128633189 1329255343
-en
-\change_unchanged
-heit.
+ in Vergessenheit.
  Dabei ist schon in der Bibel die Rede davon, dass man seine Sünden wieder
- gut machen kann und diese damit in Vergess
-\change_inserted 128633189 1329255383
-en
-\change_unchanged
-heit ger
-\change_inserted 128633189 1329255397
-aten
-\change_deleted 128633189 1329255395
-ade
-\change_unchanged
-.
+ gut machen kann und diese damit in Vergessenheit geraten.
  Die Timeline gibt uns diese Möglichkeit nicht, unsere 
 \begin_inset Quotes eld
 \end_inset
@@ -1914,13 +1745,9 @@ Sünden
 \end_inset
 
  bleiben damit ein Leben lang an uns haften.
-\change_inserted 128633189 1329256448
-
 \begin_inset Newline newline
 \end_inset
 
-
-\change_unchanged
 
 \end_layout
 
@@ -1991,10 +1818,6 @@ key "FBParty"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
 
@@ -2006,56 +1829,18 @@ key "FBParty"
 Der neuste Trend bei Facebook sind sogenannte Facebook-Partys.
  Man lädt alle seine Freunde zu einer Party oder zu seinem Geburtstag ein.
  Jedoch gibt es da eine kleine Tücke.
- Nicht selten kommt es dazu
-\change_inserted 128633189 1329255971
-,
-\change_unchanged
- das
-\change_inserted 128633189 1329255972
-s
-\change_unchanged
- solche Einladung öffentlich sichtbar werden.
- Das heißt
-\change_inserted 128633189 1329255990
-, dass
-\change_deleted 128633189 1329255996
-e der
-\change_unchanged
- jeder Facebook-Nutzer die Einladung sehen kann.
+ Nicht selten kommt es dazu, dass solche Einladung öffentlich sichtbar werden.
+ Das heißt, dass jeder Facebook-Nutzer die Einladung sehen kann.
  In unserer heutigen Zeit ist es fast selbstverständlich, dass man keine
  Einladungskarten mehr schreibt, sondern das SMS geschrieben werden oder
- halt eine Einladung über Facebook 
-\change_inserted 128633189 1329256017
-ge
-\change_unchanged
-schickt
-\change_inserted 128633189 1329256020
- wird
-\change_unchanged
-.
- Das schöne bei Facebook
-\change_inserted 128633189 1329256032
- ist
-\change_unchanged
-, dass die Eingeladenen die Möglichkeit haben zuzusagen, abzusagen oder
- unter 
-\change_inserted 128633189 1329256043
-V
-\change_deleted 128633189 1329256043
-v
-\change_unchanged
-orbehalt zuzusagen.
+ halt eine Einladung über Facebook geschickt wird.
+ Das schöne bei Facebook ist, dass die Eingeladenen die Möglichkeit haben
+ zuzusagen, abzusagen oder unter Vorbehalt zuzusagen.
  Doch ist es nicht sehr viel schöner, wenn man persönlich zu einer Feier
- eingeladen wird? Bei Facebook setzt man nur noch Haken
-\change_inserted 128633189 1329256080
-,
-\change_unchanged
- wer eingeladen werden soll oder legt ganze Gruppen fest.
- Man macht sich gar keine Gedanken darum
-\change_inserted 128633189 1329256095
-,
-\change_unchanged
- wer überhaupt zu der Feier kommen soll.
+ eingeladen wird? Bei Facebook setzt man nur noch Haken, wer eingeladen
+ werden soll oder legt ganze Gruppen fest.
+ Man macht sich gar keine Gedanken darum, wer überhaupt zu der Feier kommen
+ soll.
  
 \end_layout
 
@@ -2063,29 +1848,13 @@ orbehalt zuzusagen.
 \paragraph_spacing onehalf
 \noindent
 Und so passiert es immer wieder, dass Einladungen öffentlich sichtbar sind.
- So lud ein 17-jähriges Mädchen
-\change_deleted 128633189 1329256113
- auch
-\change_unchanged
- zu ihrem Geburtstag ein und durch ein
-\change_inserted 128633189 1329256147
-en
-\change_unchanged
- falschen Klick k
-\change_inserted 128633189 1329256138
-o
-\change_deleted 128633189 1329256138
-ö
-\change_unchanged
-nnte die Einladung jeder sehen.
+ So lud ein 17-jähriges Mädchen zu ihrem Geburtstag ein und durch einen
+ falschen Klick konnte die Einladung jeder sehen.
  Es meldeten sich 14.000 Menschen zu dieser Geburtstagsfeier an.
  Die Polizei hat dies festgestellt und kam mit einer Hundertschaft um diese
  Menschenmasse unter Kontrolle zu behalten.
- Das Mädchen flüchtet zu ihren Großeltern als sie mit bekam
-\change_inserted 128633189 1329256169
-,
-\change_unchanged
- wie viele Menschen es werden.
+ Das Mädchen flüchtet zu ihren Großeltern als sie mit bekam, wie viele Menschen
+ es werden.
  Die Kosten für den Polizeieinsatz übernahm der Staat.
  
 \end_layout
@@ -2094,18 +1863,15 @@ nnte die Einladung jeder sehen.
 \paragraph_spacing onehalf
 \noindent
 Im Angesicht solcher Ausmaße sollte sich jeder fragen, ob es nicht doch
- eventuell besser sei
-\change_inserted 128633189 1329256193
-,
-\change_unchanged
- jeden der Gäste persönlich einzuladen um diesen Folgen vorzubeugen.
+ eventuell besser sei, jeden der Gäste persönlich einzuladen um diesen Folgen
+ vorzubeugen.
  
 \end_layout
 
 \begin_layout Chapter
 \paragraph_spacing onehalf
 \noindent
-Maßnahmen(MK+TR)
+Maßnahmen(TR)
 \end_layout
 
 \begin_layout Standard
@@ -2116,13 +1882,7 @@ Man kann sich vor Googles Datensammelwut schützen, indem man Pseudonyme
  verknüpft.
  Dadurch kann Google die Daten zwar Sammeln, sie aber nur bedingt einer
  einzelnen Person zuordnen.
- Des
-\change_inserted 128633189 1329254974
- W
-\change_deleted 128633189 1329254974
-w
-\change_unchanged
-eiteren kann man versuchen alternative Dienste zu verwenden, zum Beispiel
+ Des Weiteren kann man versuchen alternative Dienste zu verwenden, zum Beispiel
  statt Google-Code kann man GitHub verwenden, statt Google-Docs kann man
  Windows-Live-Office verwenden.
  So gibt es fast zu jedem Dienst eine alternative von einem anderen Anbieter.
@@ -2165,11 +1925,7 @@ Zusammenfassend:
 \end_layout
 
 \begin_layout Standard
-- die Interneteinstellungen des Browsers
-\change_inserted 128633189 1329255011
- 
-\change_unchanged
-überprüfen
+- die Interneteinstellungen des Browsers überprüfen
 \end_layout
 
 \begin_layout Standard
@@ -2183,31 +1939,12 @@ Zusammenfassend:
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Allgemein kann man festhalten, dass alle Menschen vernü
-\change_inserted 128633189 1329255037
-n
-\change_deleted 128633189 1329255037
-p
-\change_unchanged
-ftig und sorgfä
-\change_deleted 128633189 1329255042
-l
-\change_unchanged
-ltig im Internet unterwegs sein sollten und nicht darauf los gesurft 
-\change_deleted 128633189 1329255055
-wird
-\change_inserted 128633189 1329255057
-werden sollte
-\change_unchanged
-.
+Allgemein kann man festhalten, dass alle Menschen vernünftig und sorgfältig
+ im Internet unterwegs sein sollten und nicht darauf los gesurft werden
+ sollte.
  Junge Menschen denken ein halbes Jahr darüber nach welches Handy sie sich
- kaufen sollen, aber nur eine Sekunde ob sie die 
-\change_inserted 128633189 1329255074
-a
-\change_deleted 128633189 1329255073
-A
-\change_unchanged
-llgemeinen Geschäftsbedingungen annehmen sollten.
+ kaufen sollen, aber nur eine Sekunde ob sie die allgemeinen Geschäftsbedingunge
+n annehmen sollten.
 \end_layout
 
 \begin_layout Chapter
@@ -2256,7 +1993,7 @@ Dieses Zitat spiegelt unsere Meinung äußerst gut wider.
  Gefahren neue Technologien beinhalten können.
  Jeder Mensch sollte selbst vorher überlegen ob gewisse Dienste im Internet
  von ihm unbedingt gebraucht werden und falls dies nicht der Fall ist, auch
- einmal
+ einmal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2384,19 +2121,7 @@ rde vorgelegt.
 \begin_layout Standard
 \paragraph_spacing onehalf
 \noindent
-Brandenburg/Havel, den 
-\change_inserted 128633189 1329256501
-15
-\change_deleted 128633189 1329256476
-30
-\change_unchanged
-.0
-\change_inserted 128633189 1329256478
-2
-\change_deleted 128633189 1329256478
-1
-\change_unchanged
-.2012
+Brandenburg/Havel, den 15.02.2012
 \end_layout
 
 \begin_layout Standard
@@ -2430,10 +2155,6 @@ selectlanguage{ngerman}
 \end_inset
 
 
-\begin_inset Newpage clearpage
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -2456,20 +2177,6 @@ options "bibtotoc,alphadin"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing onehalf
-\noindent
-
-\change_deleted 128633189 1329256211
-\begin_inset FloatList table
-
-\end_inset
-
-
-\change_unchanged
 
 \end_layout
 
